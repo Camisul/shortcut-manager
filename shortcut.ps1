@@ -49,3 +49,4 @@ foreach ($d in $dir){
       Write-Host "[x] $exename" -ForegroundColor $color
     } 
 }
+
